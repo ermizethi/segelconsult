@@ -1,0 +1,65 @@
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+.container-1{
+    display: flex;
+
+}
+.nav-color{
+  
+    font-weight: bold;
+    font-style: normal;    
+}
+.pic{
+    height: 300px;
+   
+}
+.container-2{
+    background-color: white ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.container-3{
+    background-color: none;
+}
+.container-4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.ml{
+    margin-left: 15px;
+}
+.logo{
+    font-weight: lighter;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(119, 116, 206);
+}
+.signup{
+    padding-right: 0px;
+}
+.con-1{
+    padding-right: 50px;
+}
+.core{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.pic-5{
+    padding-right: 15px;
+}
+.foot{
+    font-weight: bold;
+
+}
+.con-2{
+    display: flex;
+    justify-content: center;
+    text-align: center;    
+}
+.text-color{
+    color: white;
+}
